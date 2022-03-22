@@ -20,4 +20,4 @@ This is a directory to include all src files of AFL++ with our approch SeamFuzz.
 The installataion and usage is the same as AFL++ except that the specific option is required to run SeamFuzz.
 
 
-The description will be added later.
+The description will be updated.

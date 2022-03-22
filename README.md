@@ -17,7 +17,7 @@ This directory is to provide the raw data which includes generated test-cases an
 ## SeamFuzz
 
 This is a directory to include all src files of AFL++ with our approch SeamFuzz.
-The installataion and usage is the same as AFL++ except the specific option is required to run SeamFuzz.
+The installataion and usage is the same as AFL++ except that the specific option is required to run SeamFuzz.
 
 
 The description will be added later.
